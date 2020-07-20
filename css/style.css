@@ -6,7 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  /*background: url(../images/backgrounds/architecture.jpg) center no-repeat;*/
+  background-color: darkslateblue;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -52,11 +53,13 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 3em;
+  color: purple;
+  font-family: fantasy;
 }
 
 a {
-  color: black;
+  color: rgb(59, 46, 240);
   text-decoration: none;
 }
 
